@@ -3,7 +3,7 @@ import Home from './pages/Home';
 import Campaign from './pages/Campaign';
 import Contact from './pages/Contact';
 
-import Navbar from './Components/Navbar';
+import Navbar from './components/Navbar';
 
 
 

@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import Calculator from '../Components/Calculator';
+import Calculator from '../components/Calculator';
 import { FiAward, FiShare2, FiHeart, FiDroplet } from 'react-icons/fi';
 import './Home.css';
 
